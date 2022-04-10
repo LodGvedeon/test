@@ -1,11 +1,11 @@
 from pydantic.main import BaseModel
 import requests
-import pydantic
 
 
 class Post(BaseModel):
     """
-    Base Post Model
+    Base Post Modesl
+    Был бы ты человек 
     """
     userId: int
     id: int
