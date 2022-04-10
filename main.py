@@ -4,8 +4,7 @@ import requests
 
 class Post(BaseModel):
     """
-    Base Post Modesl
-    Был бы ты человек 
+    Base Post Model
     """
     userId: int
     id: int
